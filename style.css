@@ -1,0 +1,43 @@
+h1{
+    text-align:left;
+    background-color: aqua;
+    width:15%;
+}
+p{
+    text-align:left;
+    background-color:aquamarine;
+    width:50%;
+}
+article{
+    color:rgb(188, 67, 67)
+}
+pre{
+    background-color: burlywood;
+    width:100%
+}
+body{
+    background-image: 
+    url("https://img6.thuthuatphanmem.vn/uploads/2022/03/16/background-cong-nghe-ai-40-dep-nhat_094203238.jpg");
+
+}
+table,th,td{
+    border:1px solid #157e9b;
+}
+h2{
+    background-color: cadetblue;
+    width:30%
+}
+td{
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+th{
+    color: coral;
+    background-color: rgb(136, 35, 55);
+}
+p#na{
+    width:15%
+}
+p#de{
+    width:40%
+}
