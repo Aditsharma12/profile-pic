@@ -1,12 +1,10 @@
 h1{
     text-align:left;
-    background-color: aqua;
-    width:15%;
+    background-color: aqua;
 }
 p{
     text-align:left;
     background-color:aquamarine;
-    width:50%;
 }
 article{
     color:rgb(188, 67, 67)
