@@ -3,7 +3,7 @@ h1{
     background-color: aqua;
 
 }
-h3{
+h3,p{
     text-align:left;
     background-color:aquamarine;
 }
