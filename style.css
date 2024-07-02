@@ -1,6 +1,7 @@
 h1{
-    text-align:left;
-    background-color: aqua;
+    text-align:center;
+    background-color: rgb(16, 127, 255);
+    color:aliceblue
 
 }
 h3{
@@ -16,7 +17,7 @@ ul#anti{
 }
 body{
     background-image: 
-    url("https://img6.thuthuatphanmem.vn/uploads/2022/03/16/background-cong-nghe-ai-40-dep-nhat_094203238.jpg");
+    url("https://wallpapercave.com/wp/wp2590323.png");
 
 }
 table,th,td{
@@ -39,4 +40,20 @@ p#na{
 }
 p#de{
     width:40%
+}
+li#ig{
+  color:rgb(41, 153, 45)  
+}
+li#ig2{
+    color:rgb(214, 67, 9)
+  }
+  li#ig3{
+    color:rgb(71, 37, 205)
+  }
+  li#ig4{
+    color:rgb(158, 0, 0)
+  }
+  td{
+    background-color: blueviolet;
+    color: antiquewhite;
 }
